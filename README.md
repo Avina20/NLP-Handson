@@ -1,5 +1,5 @@
 # NLP-Handson
-## NLP hands-on practice and asignment notebooks under the guidance of Prof. Sharmila Banu
+## NLP hands-on practice and assignment notebooks under the guidance of Prof. Sharmila Banu
 
 The hands-on topics are :
 1. Day1 - Corpus, Frequency distribution, Inaugrual speech comparision
